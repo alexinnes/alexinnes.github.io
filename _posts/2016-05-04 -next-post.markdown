@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Very Very First Post"
-date:   2016-05-04 20:50:13 +0100
-categories: jekyll update
+date:   2016-05-04 21:50:13 +0100
+categories: welcome
 ---
 This is pretty neat
 
