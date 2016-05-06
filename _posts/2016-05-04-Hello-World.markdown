@@ -9,7 +9,7 @@ Hello,
 First let me give you a run down of who I am and why I am writing this.
 
 I am Alex Innes, IT Support Engineer. I live in Glasgow, Scotland and also work in Glasgow.
-
+<--!more-->
 As many IT Pros I have a great love for PowerShell learning and sharing my knowledge. Which is the main reason
 I am writing this blog. 
 
