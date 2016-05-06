@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "My First Post"
-date:   2016-05-04 17:00:00 +0000
+title:  "My Second Post"
+date:   2016-05-06 17:00:00 +0000
 categories: welcome
 ---
 Hello,
