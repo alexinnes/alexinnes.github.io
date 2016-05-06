@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alexinnes.github.io" # the base hostname & protocol for your site
 twitter_username: alexinnes
 github_username:  alexinnes
-cover_iamges: "http://alexinnes.github.io/ps.png"
+cover_image: "/ps.png"
 
 # Build settings
 markdown: kramdown
