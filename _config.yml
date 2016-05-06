@@ -19,3 +19,4 @@ github_username:  alexinnes
 markdown: kramdown
 highlighter: rouge
 encoding: utf-8
+excerpt_separator: <!--more-->
