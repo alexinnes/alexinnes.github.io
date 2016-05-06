@@ -9,7 +9,7 @@
 title: Alex Innes Blog Site
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  This is just my blog site
+  IT Pro blog site, content generally about PowerShell.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://alexinnes.github.io" # the base hostname & protocol for your site
 twitter_username: alexinnes
