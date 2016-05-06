@@ -16,7 +16,7 @@ I am writing this blog.
 The main focus of this blog will be my experiences with PowerShell and my learning outcomes, hopefully written in a way that will provide some help
 to someone else down the line.
 
-There might be more than just PowerShell in the blog too, anything in the IT world that grabes my attention might get posted up too. If I manage to 
+There might be more than just PowerShell in the blog too, anything in the IT world that grabs my attention might get posted up too. If I manage to 
 play with it or work with it - Nano Server comes to mind.
 
 So, if interested, watch this space.
