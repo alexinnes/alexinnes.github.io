@@ -2,9 +2,10 @@
 layout: post
 title:  "Querying a Remote Registry"
 date:   2016-05-10 18:00:00 +0000
-author: Alex Innes
+author: "Alex Innes"
 categories: script
 ---
+
 So this week I have been working on a script that will allow me to view the registry on remote machines.
 <!--more-->
 While speaking to a colleague about this he already had a script put together, which worked...but what's the fun in that.
@@ -38,7 +39,7 @@ So, here is what I came up with.
 
 Please feel free to take use it.
 
-```PowerShell
+{% highlight powershell %}
 Function Get-RemoteRegKey
 {
 [OutputType('System.Boolean','RMST.Registry.RegistryValue')]
@@ -149,7 +150,7 @@ end
 }
 
 
-```
+{% endhighlight %}
 
 Here is a image of a typical output if you specify all parameters:
 

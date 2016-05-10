@@ -2,6 +2,7 @@
 layout: post
 title:  "My First Post"
 date:   2016-05-04 17:00:00 +0000
+author: "Alex Innes"
 categories: welcome
 ---
 Hello,
