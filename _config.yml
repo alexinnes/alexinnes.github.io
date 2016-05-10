@@ -20,4 +20,5 @@ cover_image: "/ps.png"
 markdown: kramdown
 highlighter: rouge
 encoding: utf-8
+future:true
 excerpt_separator: <!--more-->
