@@ -24,10 +24,10 @@ Using Get-Member (one of my favourite commands) I could see there was a "OpenSub
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 <a href="#myPopup" data-rel="popup" data-position-to="window">
-<img src="/images/Querying_a_remote_registry/OpenRemoteBaseKey.png" alt="Get-Member on OpenRemoteBaseKey" >Click on the image to enlarge</a>
+<img src="{{site.url}}/images/Querying_a_remote_registry/OpenRemoteBaseKey.png" alt="Get-Member on OpenRemoteBaseKey" >Click on the image to enlarge</a>
 <div data-role="popup" id="myPopup">
 <a href="#pageone" data-rel="back" class="ui-btn ui-corner-all ui-shadow ui-btn-a ui-icon-delete ui-btn-icon-notext ui-btn-right">Close</a>
-<img src="/images/Querying_a_remote_registry/OpenRemoteBaseKey.png" style="width:auto;height:auto;" alt="Get-Member on OpenRemoteBaseKey"></div>
+<img src="{{site.url}}/images/Querying_a_remote_registry/OpenRemoteBaseKey.png" style="width:auto;height:auto;" alt="Get-Member on OpenRemoteBaseKey"></div>
 <br>
 
 This "OpenSubKey()" method allows you to specify a registry for it to open. There is also a "GetValueNames()" method that returns the keys in the specified registry.
