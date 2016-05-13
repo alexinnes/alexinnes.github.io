@@ -42,7 +42,7 @@ Please feel free to take use it.
 {% highlight powershell %}
 Function Get-RemoteRegKey
 {
-[OutputType('System.Boolean','RMST.Registry.RegistryValue')]
+[OutputType('System.Boolean')]
 	[CmdletBinding(DefaultParameterSetName = "__AllParameterSets")]
 	
 	param( 
