@@ -51,13 +51,13 @@ should work...Yes?
 No!
 
 Returns nothing in the console:
-![Output 1](Images\Active_Directory_Annoyance\Output1.PNG)
+![Output 1](/Images/Active_Directory_Annoyance/Output1.PNG)
 
 I spend too long looking into this issue before reaching out to the PowerShell community, to see where I was going wrong in my script.
 
 Thankfully, within 10 minutes Dave and I was happy to find out this is not something that I was doign wrong but an oddity within the Active Directory module.
 The solution to this issue:
-![Output 2](Images\Active_Directory_Annoyance\Output2.PNG)
+![Output 2](/Images/Active_Directory_Annoyance/Output2.PNG)
 Yes, adding a "select *" in the pipline fixes the issue. Odd, yes - but if it works....
 I had this issue with AD Computers objects too, so I am assuming its with all Active Directoy objects.
 
