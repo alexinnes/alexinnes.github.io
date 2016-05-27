@@ -6,7 +6,7 @@ categories: script writing, Active Directory
 ---
 
 So I happened across another issue with the Active Directory module.
-<--!more--> 
+<!--more--> 
 I was asked by a colleague to create a quick script, along the lines of "I need to change all users password in an OU to the same value" (I didn't question, primary schools tend to have a "bespoke" setup.) 
 Which, is quite simple:
 {% Higlight PowerShell %}
