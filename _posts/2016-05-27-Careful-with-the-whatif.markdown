@@ -9,7 +9,7 @@ So I happened across another issue with the Active Directory module.
 <!--more--> 
 I was asked by a colleague to create a quick script, along the lines of "I need to change all users password in an OU to the same value" (I didn't question, primary schools tend to have a "bespoke" setup.) 
 Which, is quite simple:
-{% Higlight PowerShell %}
+{% Highlight PowerShell %}
 Get-AdUser -filter * -searchbase <whatever the OU was> | Set-ADAccountPassword -NewPassword (ConvertTo-SecureString -asPlainText "somepassword" -Force) 
 {% endhighlight %}
 
@@ -20,7 +20,7 @@ how handy it is for testing one liners like this.
 
 So the full command is looking like:
 
-{% Higlight PowerShell %}
+{% Highlight PowerShell %}
 Get-AdUser -filter * -searchbase <whatever the OU was> | Set-ADAccountPassword -NewPassword (ConvertTo-SecureString -asPlainText "somepassword" -Force) -WhatIf
 {% endhighlight %}
 
@@ -28,7 +28,7 @@ Cool, lets test this as I slapped the F5 key in ISE.
 
 Hmm, no verbose output, I know - lets add verbose to the end.
 
-{% Higlight PowerShell %}
+{% Highlight PowerShell %}
 Get-AdUser -filter * -searchbase <whatever the OU was> | Set-ADAccountPassword -NewPassword (ConvertTo-SecureString -asPlainText "somepassword" -Force) -WhatIf -Verbose
 {% endhighlight %}
 
