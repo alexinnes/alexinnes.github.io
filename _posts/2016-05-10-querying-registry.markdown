@@ -35,9 +35,9 @@ This "OpenSubKey()" method allows you to specify a registry for it to open. Ther
 What I wanted to do was to be able to specify a Hive/Registry/Key and for it to spit out the value. I also wanted the script to do was for me to just specify the Hive/Registry and for it to tell me the
 other "folders" in that registry. 
 
-So, here is what I came up with.
+So, this is what I came up with.
 
-Please feel free to take use it.
+Please feel free to use it.
 
 {% highlight powershell %}
 Function Get-RemoteRegKey
