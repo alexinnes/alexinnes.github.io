@@ -7,4 +7,4 @@ Microsoft have decided that PowerShell is going to become the new default comman
 
 Chek it out for yourself:
 
-https://blogs.windows.com/windowsexperience/2016/11/17/announcing-windows-10-insider-preview-build-14971-for-pc/
+[Post from Windows Blog](https://blogs.windows.com/windowsexperience/2016/11/17/announcing-windows-10-insider-preview-build-14971-for-pc/)
