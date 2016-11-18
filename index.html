@@ -19,7 +19,7 @@ layout: default
 		<hr>
       </li>
     {% endfor %}
-  </ul><br/>
+  </ul>
   
 <!-- Pagination links -->
   <div class="pagination">
@@ -35,7 +35,9 @@ layout: default
       <span class="next ">Next</span>
     {% endif %}
   </div>
+  
  <!-- End Pagination Links -->
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <br>
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
