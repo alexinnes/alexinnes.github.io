@@ -24,11 +24,13 @@ You can specifiy a computer name and it will query that computer for which updat
 Some clarity to the arrays the hash table holds:
 "NotInstalled"
 This is updates that have been told they need to install but have not yet.
+
 "InstalledPendingReboot"
 Name tends to give it away - updates that have installed but require a reboot.
+
 "Downloaded"
 Updates that have been downloaded but not installed yet.
+
 "Failed"
 Updates that have tried to install but have failed.
 
-These 
