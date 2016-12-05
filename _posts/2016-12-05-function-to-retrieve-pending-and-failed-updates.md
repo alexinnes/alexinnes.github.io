@@ -9,7 +9,7 @@ I.e. Schedule a restart on the server or troubleshoot why the update has failed.
 
 Now if you are running on Server 2012 then PowerShell actually has its own cmdlet to easily do this, but I needed this to work with 2008 server as well. This meaning it needed some more work.
 Take a look:
-{% gist 9e45bcc5c170715782bdb4be139130ca}
+{% gist 9e45bcc5c170715782bdb4be139130ca %}
 
 A quick overview of the function. To run it, all you need to do is load the script and run:
 
