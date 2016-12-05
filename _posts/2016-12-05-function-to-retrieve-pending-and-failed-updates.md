@@ -1,7 +1,7 @@
 ---
 title: Function to Retrieve Pending and Failed Updates.
 date: '2016-12-02 08:16:57'
-layout: 
+layout: post
 ---
 This function is something that helps me identify when the server has updates that pending or have failed
 <!--more-->As both are generally require me to do something to the server.
