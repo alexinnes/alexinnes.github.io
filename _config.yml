@@ -15,7 +15,7 @@ url: "http://alexinnes.github.io" # the base hostname & protocol for your site
 twitter_username: alexinnes
 github_username:  alexinnes
 cover_image: "/ps.png"
-
+pagination: 5
 
 # Build settings
 markdown: kramdown
