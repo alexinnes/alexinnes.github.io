@@ -22,3 +22,5 @@ markdown: kramdown
 highlighter: rouge
 encoding: utf-8
 excerpt_separator: <!--more-->
+
+theme: jekyll-theme-modernist
