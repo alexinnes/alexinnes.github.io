@@ -5,12 +5,8 @@ author: Alex Innes
 categories: []
 date: '2016-08-23T00:00:00.000+00:00'
 ---
-
-
 Firstly apologies for the gap in posting. I had a couple issues with my health and then had a backlog of work.
 <!--more-->
-
- 
 
 This is the first time in a while I have managed to write some PowerShell in a while. I was asked by a colleage if I could write something to show the system specs of a machine
 and show its drivers/hardware IDs.
