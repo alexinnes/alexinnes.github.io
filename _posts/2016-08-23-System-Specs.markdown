@@ -12,6 +12,8 @@ This is the first time in a while I have managed to write some PowerShell in a w
 and show its drivers/hardware IDs.
 So I threw together this script:
 
+{% gist cde384e2e1f7348d30d03a47bc96dc2b %}
+
 Uses XAML which I generate in Visual Studios (Create a WPF project) and build the interface and just copy the XAML.
 I add the "Name" tages so I can reference them in my PowerShell.
 Then grabbing the system specs and drivers is as easy as calling get-ciminstance or get-wmiobject.
