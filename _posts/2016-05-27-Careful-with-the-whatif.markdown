@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Careful with the -WhatIf"
-author: "Alex Innes"
+title: Careful with the -WhatIf
+author: Alex Innes
 categories: script writing, Active Directory
+date: '2016-05-27T00:00:00.000+00:00'
 ---
 
 So I happened across another issue with the Active Directory module.
