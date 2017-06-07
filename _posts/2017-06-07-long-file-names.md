@@ -1,7 +1,10 @@
 ---
 title: Long File Names
-date: '2017-06-07T19:51:00+01:00'
+date: 2017-06-07 19:51
 post_name: Long File Names
+layout: Post
+author: ''
+categories: []
 ---
 
 
