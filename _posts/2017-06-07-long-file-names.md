@@ -9,6 +9,7 @@ categories: []
 
 
 This is a small one liner that I used on a customer site. This is not a particularly complicated or one liner. Yet it sparked the customers interest in PowerShell.
+<!--more-->
 
 {% gist 603d5abcf1dd3e7290bc5995f005c47a %}
 
