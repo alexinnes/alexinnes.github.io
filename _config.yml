@@ -22,8 +22,7 @@ markdown: kramdown
 highlighter: rouge
 encoding: utf-8
 excerpt_separator: <!--more-->
-gems: [jekyll-paginate]
-#theme: jekyll-theme-modernist
+
 github: [metadata]
 kramdown:
   input: GFM
@@ -34,9 +33,11 @@ gems:
   - jekyll-mentions
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-paginate
 whitelist:
   - jekyll-coffeescript
   - jekyll-gist
   - jekyll-mentions
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-paginate
