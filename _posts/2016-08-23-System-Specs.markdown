@@ -2,7 +2,7 @@
 layout: post
 title: System Specs with GUI
 author: Alex Innes
-categories: script writing
+categories: []
 date: '2016-08-23T00:00:00.000+00:00'
 ---
 
