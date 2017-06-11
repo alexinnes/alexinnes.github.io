@@ -2,7 +2,7 @@
 title: Find O365 User
 author: Alex Innes
 date: 2017-06-11 14:43
-layout: post
+layout: ''
 ---
 When having to search for a user in Office 365 and you manage multiple tenancies. It can become a time consuming take.
 <!--more-->
