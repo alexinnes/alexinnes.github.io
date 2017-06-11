@@ -2,4 +2,13 @@
 title: Find O365 User
 author: Alex Innes
 date: 2017-06-11 14:43
+layout: post
 ---
+When having to search for a user in Office 365 and you manage multiple tenancies. It can become a time consuming take.
+<!--more-->
+As you have to find the TenantID which will then allow you to search for a user in that tenant.
+So I wrote myself a small function that if you input the User Principle name it split the name into username and domain name.
+It then takes the domain name and searches for the tenant contract that matches that domain name and will use the tenant ID against that contract to search for the user.
+Nothing ground breaking but just something that helps me day to day.
+This is probably my most used script as it saves me bucket loads of time
+<% gist 9c7f40fc7598c8c3de61 %>
