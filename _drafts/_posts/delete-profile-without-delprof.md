@@ -13,3 +13,4 @@ You can point it at any machine on the network and it will remove the account.
 It has some error checking, it will make sure the user is not logged in and there is a valid path to the users folder.
 
 So here it is:
+{% gist b34b6b7c1b8afb62a7f7642e5106e958 %}
