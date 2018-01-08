@@ -1,0 +1,31 @@
+---
+pages:
+- _posts/delete-profile-without-delprof.md
+- _posts/2017-06-11-find-o365-user.md
+- _posts/2017-06-07-long-file-name-one-liner.md
+- _posts/2017-05-31-list-vss-writers-in-a-object.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+  config:
+    source:
+      type: pages
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Alex Innes
