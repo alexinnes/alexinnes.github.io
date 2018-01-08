@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Post
-date: '2016-05-04T17:00:00.000+00:00'
+date: 2016-05-04 17:00:00 +0000
 author: Alex Innes
 categories: welcome
 ---

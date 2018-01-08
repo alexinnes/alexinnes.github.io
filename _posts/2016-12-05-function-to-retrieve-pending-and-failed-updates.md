@@ -1,6 +1,6 @@
 ---
 title: Function to Retrieve Pending and Failed Updates.
-date: '2016-12-02 08:16:57'
+date: 2016-12-02 00:00:00 +0000
 layout: post
 ---
 This function is something that helps me identify when the server has updates that pending or have failed

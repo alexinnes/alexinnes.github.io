@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Querying a Remote Registry
-date: '2016-05-10T18:00:00.000+00:00'
+date: 2016-05-10 18:00:00 +0000
 author: Alex Innes
 categories: script
 ---

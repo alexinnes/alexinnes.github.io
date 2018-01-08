@@ -1,6 +1,6 @@
 ---
 title: Long File Name one liner
-date: 2017-06-07 20:14
+date: 2017-06-07 00:00:00 +0000
 author: Alex Innes
 layout: post
 categories: []

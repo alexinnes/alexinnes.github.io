@@ -3,7 +3,7 @@ layout: post
 title: Creating Log Files for your Scripts
 author: Alex Innes
 categories: script writing error handling
-date: '2016-10-24T00:00:00.000+00:00'
+date: 2016-10-24 00:00:00 +0000
 ---
 
 I decided to write a small script that can be used to create Windows Logs which can be viewed in the Event Viewer. Basically this is a script to create and log custom events and it creates a file too.

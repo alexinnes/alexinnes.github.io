@@ -1,6 +1,6 @@
 ---
 title: List VSS writers in a object.
-date: 2017-05-31 16:18
+date: 2017-05-31 00:00:00 +0000
 layout: post
 author: Alex Innes
 categories: []

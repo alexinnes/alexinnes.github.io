@@ -3,7 +3,7 @@ layout: post
 title: Active Directory Annoyance
 author: Alex Innes
 categories: script writing, Active Directory
-date: '2016-05-13T00:00:00.000+00:00'
+date: 2016-05-13 00:00:00 +0000
 ---
 I recently found something out (with much appreciated help over at http://powershell.org and Dave Wyatt).
 
