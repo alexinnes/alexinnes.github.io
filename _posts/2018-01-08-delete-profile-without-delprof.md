@@ -2,7 +2,7 @@
 title: Delete Profile without DelProf
 author: Alex Innes
 date: 2018-01-08 00:00:00 +0000
-layout: ''
+layout: post
 ---
 Here is a script I created so that I could delete users accounts on stations but not have to use DelProf.
 <!--more-->
