@@ -5,7 +5,7 @@ date: 2018-01-08 00:00:00 +0000
 layout: ''
 ---
 Here is a script I created so that I could delete users accounts on stations but not have to use DelProf.
-<--!more-->
+<!--more-->
 It works by called with WMI class win32_userProfile, which will remove the user in the registry and it will remove their user folder. 
 
 You can point it at any machine on the network and it will remove the account. 
