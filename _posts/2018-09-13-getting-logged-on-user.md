@@ -2,7 +2,7 @@
 title: Getting Logged on User
 author: Alex Innes
 date: 2018-09-13 00:00:00 +0000
-layout: ''
+layout: post
 
 ---
 A small script which can be used to find what user is logged into a station. Can be handy if you are looking for a station that does not have any user logged into it.
