@@ -27,6 +27,7 @@ fields:
   hidden: false
   default: Alex Innes
 pages:
+- _posts/getting-logged-on-user.md
 - _posts/2017-06-07-long-file-name-one-liner.md
 - _posts/2018-01-08-delete-profile-without-delprof.md
 - _posts/2017-05-31-list-vss-writers-in-a-object.md
