@@ -1,10 +1,7 @@
 ---
-pages:
-- _posts/2018-01-08-delete-profile-without-delprof.md
-- _posts/2017-06-11-find-o365-user.md
-- _posts/2017-06-07-long-file-name-one-liner.md
-- _posts/2017-05-31-list-vss-writers-in-a-object.md
+label: Default
 hide_body: false
+is_partial: false
 fields:
 - name: layout
   label: Layout
@@ -29,3 +26,8 @@ fields:
   type: text
   hidden: false
   default: Alex Innes
+pages:
+- _posts/2017-06-11-find-o365-user.md
+- _posts/2017-05-31-list-vss-writers-in-a-object.md
+- _posts/2018-01-08-delete-profile-without-delprof.md
+- _posts/2017-06-07-long-file-name-one-liner.md
