@@ -17,6 +17,6 @@ Using it is as easy as loading the cmdlet:
 
 It will accept values from the pipeline too, so if you are working on a domain:
 
-      Get-ADComputer SomeComputer | Get-LoggedOnUser
+    Get-ADComputer SomeComputer | Get-LoggedOnUser
 
 {% gist 4157865c0b0c1aaf4f6aec22055fe26c %}
