@@ -7,6 +7,8 @@ layout: post
 ---
 A small script which can be used to find what user is logged into a station. Can be handy if you are looking for a station that does not have any user logged into it.
 
+<!--more-->
+
 If filters out known SIDs and I have left the MS article in the comments if you need to add more to it.
 
 Using it is as easy as loading the cmdlet:
