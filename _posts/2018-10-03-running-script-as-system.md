@@ -23,4 +23,6 @@ Which lead me to:
 
 Instead of writing a complicated script, you can just run the above. Which opens a PS window as System.
 
+It does require the Sysinternal tools to be on the server, but this is something I tend to keep to hand.
+
 For me this was the best solution, for others it might not be. It reminded me that when looking for solution, keeping it simple is often the best route.
