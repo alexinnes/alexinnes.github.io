@@ -27,9 +27,9 @@ fields:
   hidden: false
   default: Alex Innes
 pages:
-- _posts/2018-10-03-running-script-as-system.md
-- _posts/2018-09-13-getting-logged-on-user.md
-- _posts/2017-06-07-long-file-name-one-liner.md
-- _posts/2018-01-08-delete-profile-without-delprof.md
-- _posts/2017-05-31-list-vss-writers-in-a-object.md
 - _posts/2017-06-11-find-o365-user.md
+- _posts/2017-05-31-list-vss-writers-in-a-object.md
+- _posts/2018-01-08-delete-profile-without-delprof.md
+- _posts/2017-06-07-long-file-name-one-liner.md
+- _posts/2018-09-13-getting-logged-on-user.md
+- _posts/2018-10-03-running-script-as-system.md
