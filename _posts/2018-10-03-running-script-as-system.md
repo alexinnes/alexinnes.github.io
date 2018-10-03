@@ -18,7 +18,7 @@ Keep. It. Simple.
 
 Which lead me to:
 
-    PS Start-Process -FilePath cmd.exe -Verb runas -ArgumentList '/k "C:\Sysin
+    Start-Process -FilePath cmd.exe -Verb runas -ArgumentList '/k "C:\Sysin
     ternal\psexec.exe" -i -s powershell.exe'
 
 Instead of writing a complicated script, you can just run the above. Which opens a PS window as System.
