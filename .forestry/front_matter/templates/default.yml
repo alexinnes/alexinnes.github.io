@@ -27,6 +27,7 @@ fields:
   hidden: false
   default: Alex Innes
 pages:
+- _posts/running-script-as-system.md
 - _posts/2018-09-13-getting-logged-on-user.md
 - _posts/2017-06-07-long-file-name-one-liner.md
 - _posts/2018-01-08-delete-profile-without-delprof.md
